@@ -1,1 +1,3 @@
 # Sentiment-Analysis
+Sentiment analysis :- also known as opinion mining , refers to the use of NLP, text analysis, and computational Linguistics and extract subjective information in source materials.
+There is a rapid growth in the domain of opinion mining as well as sentiment analysis which targets to discover the text or opinions present on the disparate social media plat- forms via machine-learning (ML) with polarity calculations, sentiment analysis or subjectivity analysis. Sentimental analysis (SA) indicates the text organization which is employed to categorize the expressed feelings or mindset in diverse manners like favorable, thumbs up, positive, unfavorable, thumbs down, negative, etc. 
